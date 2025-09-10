@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* optional small global styling */
+body { @apply bg-gradient-to-br from-green-50 to-green-100; }
